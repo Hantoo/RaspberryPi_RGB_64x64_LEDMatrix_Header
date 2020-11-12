@@ -2,6 +2,7 @@
 
 Simple Raspberry Pi 3/4 header for an RGB 64x64 LED Matrix.  
 **Input 5V ONLY!** There is no voltage protection or phase protection. 
+For use with LED Matrixes that have A,B,C,D & E selection pins.  
   
 Components needed:  
 * 2x 74HCT245N  
