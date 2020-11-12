@@ -1,6 +1,8 @@
 # RaspberryPi_RGB_64x64_LEDMatrix_Header
 
-Simple Raspberry Pi 3/4 header for an RGB 64x64 LED Matrix.   
+Simple Raspberry Pi 3/4 header for an RGB 64x64 LED Matrix.  
+**Input 5V ONLY!** There is no voltage protection or phase protection. 
+  
 Components needed:  
 * 2x 74HCT245N  
 * 1x Molex , KK 254, 6373, 4 Way, 1 Row, Straight PCB Header, 22-23-2041  
