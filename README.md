@@ -12,7 +12,7 @@ Components needed:
 
 Connections to raspberry pi follow that of the Adadruit-PWN connection pattern:  
   
-    .output_enable = GPIO_BIT(18),  /* Pins 4 and 8 are bound */  
+    .output_enable = GPIO_BIT(18),  /* Pins 4 and 18 are bound */  
     .clock         = GPIO_BIT(17),  
     .strobe        = GPIO_BIT(21),  
   
